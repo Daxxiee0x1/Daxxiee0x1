@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Daxxiee 👋</h1>
+<h1 align="center">Hi, I'm Haekal 👋</h1>
 <h3 align="center">Security Researcher • CS Student @ Universitas Cakrawala</h3>
 
 <p align="center">
