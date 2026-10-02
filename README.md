@@ -19,7 +19,6 @@
 - 🎯 Active on **Intigriti** (`daxxiee0_`), **Bugcrowd**
 - 🛠️ Focus areas: deep link exploitation, WebView abuse, intent injection, exported component abuse, auth bypass, token leakage, taint-flow analysis, BOLA/BFLA
 - 🧩 I also build offensive automation tooling (browser automation, fingerprint rotation, auth flow testing)
-- 🏗️ Currently building **SpeakUp**, an AI-driven public speaking coaching platform (Android/Web/Desktop)
 - 🌱 Student at **Universitas Cakrawala**, Computer Science program
 
 ---
