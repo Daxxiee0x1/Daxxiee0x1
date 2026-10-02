@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Breaking+Android+apps+responsibly+%F0%9F%93%B1;Deep+link+%26+WebView+exploitation;Bug+bounty+hunter+%40+Intigriti+%7C+Bugcrowd+%7C+HackerOne;Building+SpeakUp+%F0%9F%8E%99%EF%B8%8F;CS+Student+%40+Universitas+Cakrawala" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Breaking+Android+apps+responsibly+%F0%9F%93%B1;Deep+link+%26+WebView+exploitation;Bug+bounty+hunter+%40+Intigriti+%7C+Bugcrowd+%7C+HackerOne;CS+Student+%40+Universitas+Cakrawala" alt="Typing SVG" />
   </a>
 </p>
 
