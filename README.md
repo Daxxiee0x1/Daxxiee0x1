@@ -77,18 +77,13 @@
 
 ### 🏆 Bug Bounty Highlights
 
-- **Okta Verify (Android)** — Bugcrowd — confirmed `UriEnrollmentActivity` deep link (`oktaverify://`) registered `BROWSABLE` without `autoVerify`, allowing any web page to trigger enrollment
-- **Capital.com (Android)** — Intigriti — hardcoded UAEPass OAuth client secret in production APK, confirmed via live token retrieval; identified a secondary PKCE-absent authorization code interception chain with a full Kotlin PoC
-- **Dropbox (Android)** — Intigriti — exported `FileCacheProvider` vulnerability (CWE-284, CVSS 6.8 High), validated with a full Kotlin PoC
-- **Canva (Android)** — Bugcrowd — Frida instrumentation research, including dynamic overload resolution for obfuscated methods
+- **Okta Verify (Android)** - Bugcrowd - confirmed `UriEnrollmentActivity` deep link (`oktaverify://`) registered `BROWSABLE` without `autoVerify`, allowing any web page to trigger enrollment
+- **Capital.com (Android)** - Intigriti - hardcoded UAEPass OAuth client secret in production APK, confirmed via live token retrieval; identified a secondary PKCE-absent authorization code interception chain with a full Kotlin PoC
+- **Dropbox (Android)** - Intigriti - exported `FileCacheProvider` vulnerability (CWE-284, CVSS 6.8 High), validated with a full Kotlin PoC
+- **Canva (Android)** - Bugcrowd - Frida instrumentation research, including dynamic overload resolution for obfuscated methods
 
 ---
 
-### 🚧 Current Project
-
-**SpeakUp** (formerly VoxCoach) — AI-driven public speaking coaching platform combining speech analysis (Whisper ASR, librosa, MediaPipe FaceMesh, LLM-based scoring) with a human mentor marketplace. Targeting Android, Web, and Desktop.
-
----
 
 <p align="center">
   <em>Breaking things responsibly, one CVE at a time.</em>
