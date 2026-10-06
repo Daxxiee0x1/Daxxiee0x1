@@ -1,29 +1,30 @@
-<h1 align="center">Hi, I'm Haekal 👋</h1>
-<h3 align="center">Security Researcher • CS Student @ Universitas Cakrawala</h3>
+<div align="center">
 
-<p align="center">
-  🔐 Mobile (Android-focused) & Web Application Security &nbsp;|&nbsp; 🎓 Computer Science @ Universitas Cakrawala
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=120&section=header&text=DAXXIEE.EXE&fontColor=00ff41&fontSize=40&fontAlignY=60&desc=A%20Security%20Research%20RPG&descAlignY=85&descSize=15&descColor=36BCF7&animation=twinkling" width="100%" />
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Breaking+Android+apps+responsibly+%F0%9F%93%B1;Deep+link+%26+WebView+exploitation;Bug+bounty+hunter+%40+Intigriti+%7C+Bugcrowd+%7C+HackerOne;CS+Student+%40+Universitas+Cakrawala" alt="Typing SVG" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=700&height=40&lines=LOADING+PLAYER+PROFILE...;CLASS%3A+SECURITY+RESEARCHER;ANDROID+%2B+WEB+PENTESTER" alt="Typing SVG" />
+
+<br><br>
+
+<img src="./assets/press-start.svg" alt="Press Start" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="./assets/player-card.svg" alt="Player Card" />
+
+<br><br>
+
+<img src="./assets/status-window.svg" alt="Status Window" />
+
+</div>
 
 ---
 
-### 🧠 About Me
-
-- 🔭 I research and break mobile & web applications - Android, web, and occasionally iOS/Windows/Linux/macOS pentesting
-- 🎯 Active on **Intigriti** (`daxxiee0_`), **Bugcrowd**
-- 🛠️ Focus areas: deep link exploitation, WebView abuse, intent injection, exported component abuse, auth bypass, token leakage, taint-flow analysis, BOLA/BFLA
-- 🧩 I also build offensive automation tooling (browser automation, fingerprint rotation, auth flow testing)
-- 🌱 Student at **Universitas Cakrawala**, Computer Science program
-
----
-
-### 🧪 Security Toolkit
+### 🎒 INVENTORY (Security Toolkit)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Frida-black?style=for-the-badge&logo=frida&logoColor=white" />
@@ -37,11 +38,11 @@
   <img src="https://img.shields.io/badge/ADB-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
-**Core skills:** Static analysis (JADX, APKTool, Smali) · Dynamic instrumentation (Frida/Objection hooking, overload resolution on obfuscated methods) · Deep link & intent exploitation · Exported activity/provider/receiver abuse · WebView `addJavascriptInterface` / `loadUrl` auditing · Parcelable/Serializable abuse · OAuth/PKCE flow analysis · Full taint-flow tracing (source → sink → trust boundary)
+**Skill tree:** Static analysis (JADX, APKTool, Smali), dynamic instrumentation (Frida/Objection hooking, overload resolution on obfuscated methods), deep link and intent exploitation, exported activity/provider/receiver abuse, WebView `addJavascriptInterface` and `loadUrl` auditing, Parcelable/Serializable abuse, OAuth/PKCE flow analysis, full taint flow tracing (source to sink to trust boundary).
 
 ---
 
-### 💻 Tech Stack
+### ⚔️ EQUIPPED WEAPONS (Tech Stack)
 
 **Languages**
 <p align="left">
@@ -75,16 +76,43 @@
 
 ---
 
-### 🏆 Bug Bounty Highlights
+### 🏆 QUEST LOG (Bug Bounty Highlights)
 
-- **Okta Verify (Android)** - Bugcrowd - confirmed `UriEnrollmentActivity` deep link (`oktaverify://`) registered `BROWSABLE` without `autoVerify`, allowing any web page to trigger enrollment
-- **Capital.com (Android)** - Intigriti - hardcoded UAEPass OAuth client secret in production APK, confirmed via live token retrieval; identified a secondary PKCE-absent authorization code interception chain with a full Kotlin PoC
-- **Dropbox (Android)** - Intigriti - exported `FileCacheProvider` vulnerability (CWE-284, CVSS 6.8 High), validated with a full Kotlin PoC
-- **Canva (Android)** - Bugcrowd - Frida instrumentation research, including dynamic overload resolution for obfuscated methods
+```
+[QUEST] Okta Verify (Android) ............ Bugcrowd .... COMPLETE
+  > Confirmed UriEnrollmentActivity deep link (oktaverify://)
+    registered BROWSABLE without autoVerify, allowing any web
+    page to trigger enrollment. Severity: P3
+
+[QUEST] Capital.com (Android) ............ Intigriti ... COMPLETE
+  > Found hardcoded UAEPass OAuth client secret in production
+    APK, confirmed via live token retrieval. Discovered a
+    secondary PKCE-absent authorization code interception
+    chain, validated with a full Kotlin PoC
+
+[QUEST] Dropbox (Android) ................ Intigriti ... COMPLETE
+  > Exported FileCacheProvider vulnerability (CWE-284, CVSS
+    6.8 High), validated with a full Kotlin PoC
+
+[QUEST] Canva (Android) .................. Bugcrowd .... COMPLETE
+  > Frida instrumentation research, including dynamic overload
+    resolution for obfuscated methods
+```
 
 ---
 
+### 🛠️ CURRENT SIDE QUEST
 
-<p align="center">
-  <em>Breaking things responsibly, one CVE at a time.</em>
-</p>
+```
+> Building an Android Markdown notes app for the GitHub
+  portfolio: editor, live preview, tags, and full-text search
+  powered by Room FTS.
+```
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=90&section=footer&text=GAME%20OVER%3F%20NEVER.&fontColor=00ff41&fontSize=20&fontAlignY=60&animation=twinkling" width="100%" />
+
+</div>
