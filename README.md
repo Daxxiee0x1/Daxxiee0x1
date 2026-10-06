@@ -6,7 +6,9 @@
 
 <br><br>
 
-<img src="./assets/press-start.svg" alt="Press Start" />
+<a href="#quest-log">
+  <img src="./assets/press-start.svg" alt="Press Start" />
+</a>
 
 </div>
 
@@ -76,6 +78,7 @@
 
 ---
 
+<a id="quest-log"></a>
 ### 🏆 QUEST LOG (Bug Bounty Highlights)
 
 ```
