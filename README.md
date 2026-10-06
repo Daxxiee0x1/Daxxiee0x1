@@ -26,6 +26,17 @@
 
 ---
 
+### 📈 CHARACTER STATS (Live GitHub Data)
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Daxxiee0x1&show_icons=true&hide_border=true&bg_color=1b1740&title_color=39ff14&icon_color=00e5ff&text_color=f2f2f2&ring_color=39ff14" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=Daxxiee0x1&hide_border=true&background=1b1740&ring=39ff14&fire=39ff14&currStreakLabel=39ff14&sideLabels=00e5ff&currStreakNum=f2f2f2&sideNums=f2f2f2&dates=888888" width="48%" />
+
+</div>
+
+---
+
 ### 🎒 INVENTORY (Security Toolkit)
 
 <p align="left">
@@ -104,6 +115,26 @@
 
 ---
 
+### 🏅 TROPHIES UNLOCKED
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Daxxiee0x1&no-frame=true&row=1&column=6&title_color=39ff14&icon_color=00e5ff&text_color=f2f2f2&background=1b1740" />
+
+</div>
+
+---
+
+### 🐍 BONUS LEVEL: Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Daxxiee0x1/Daxxiee0x1/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+
+</div>
+
+---
+
 ### 🛠️ CURRENT SIDE QUEST
 
 ```
@@ -115,6 +146,10 @@
 ---
 
 <div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Daxxiee0x1&style=for-the-badge&color=39ff14&label=SCORE" alt="Visitor Score" />
+
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=90&section=footer&text=GAME%20OVER%3F%20NEVER.&fontColor=00ff41&fontSize=20&fontAlignY=60&animation=twinkling" width="100%" />
 
